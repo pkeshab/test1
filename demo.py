@@ -1,4 +1,4 @@
 #! /bin/bash/python
 
-print("hello")
+print("Hello")
 
